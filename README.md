@@ -1,3 +1,3 @@
 # Vaccine Availability
 
-## <a href="tenrats.in/vaccine-availability/">tenrats.in/vaccine-availability test</a>
+<a href="https://tenrats.in/vaccine-availability/">tenrats.in/vaccine-availability test</a>
